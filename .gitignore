@@ -1,1 +1,1 @@
-configurations/docker-testing-ground/http2/certs/*
+configurations/docker-testing-ground/http2/certs/**
