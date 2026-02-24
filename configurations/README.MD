@@ -68,7 +68,7 @@ Overview
     └── index.html`
 ```
 
-Run files in order to setup testing container for NGINX using HTTP/2 with SLL encryption.
+Run files in order to setup testing container for NGINX using HTTP/3 and HTTP/2 with SLL encryption.
 1. genssl.bash
 2. build.bash
 3. run.bash
