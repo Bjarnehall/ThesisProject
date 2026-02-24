@@ -10,4 +10,3 @@ COPY ./certs/server.key /etc/ssl/private/server.key
 COPY ./server.conf /etc/nginx/sites-enabled/default
 
 CMD ["nginx", "-g", "daemon off;"]
-
